@@ -2,3 +2,21 @@
 /* Generals */
 /*----------*/
 
+body {
+    background-color: #083B4C;
+}
+
+
+/*-------------*/
+/* Number Grid */
+/*-------------*/
+
+.squareNumber {
+    margin: 10px;
+    aspect-ratio: 1;
+    background-color: #1389B2;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

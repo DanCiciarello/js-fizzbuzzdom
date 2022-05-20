@@ -29,3 +29,7 @@ MILESTONE 1 (human code)
     - Altrimenti stampo il numero
 
 --------------------------------------------------------
+
+MILESTONE 2 (human code)
+- Seleziono il container dell'html
+- Alla fine del ciclo, stampo nell'elemento html il risultato finale
